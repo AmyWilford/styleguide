@@ -1,0 +1,106 @@
+* {
+    font-family: 'Lato', sans-serif;
+    margin: 10px;
+    color:#1A2438;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Slabo 13px', serif;
+    font-size: 60px;
+    text-align: center;
+    padding: 40px;
+}
+
+table {
+    width:80%;
+    text-align: center;
+    border-spacing: 15px;
+}
+th {
+    height: 70px;
+    width:25%;
+}
+td {
+    width: 25%;
+}
+hr {
+    margin: 50px;
+}
+.subhead {
+    width: 15%;
+    text-transform: uppercase;
+    font-size: 30px;
+    float: left;
+    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 25px;
+
+}
+.color-name, th{
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 18px;
+}
+.grey {
+    background-color: #e5e5e5;
+}
+.seashell {
+     background-color: #FFF0EB;
+}
+.red-salsa {
+    background-color: #F93943;
+}
+.oxford-blue {
+    background-color: #1A2438;
+}
+.slabo {
+    font-family: 'Slabo 13px', serif;
+}
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+.roboto {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fonts table tr:first-of-type{
+    text-decoration: underline;
+}
+.thin {
+    font-weight: 100;
+}
+.thin-i {
+    font-weight: 100;
+    font-style: italic;
+}
+.light {
+    font-weight: 300;
+}
+.regular {
+    font-weight: 400;
+}
+.bold {
+    font-weight: 700;
+}
+
+.text-style-main {
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.text-style-sub {
+    font-size: 20;
+    font-weight:300;
+}
+footer {
+    background-color:#1A2438;
+    text-align: center;
+    padding: 20px;
+}
+footer div {
+    color:#FFF0EB;
+    font-weight: 100;
+}
+
+
+
